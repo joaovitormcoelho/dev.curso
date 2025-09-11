@@ -1,4 +1,17 @@
-function home() {
-return <h1>Ser inflexível em meus valores, seguir o que é certo, pois só assim alcançarei meus objetivos. Se esforce mais que o sufuciente. </h1> 
+function Home() {
+  return (
+    <h1>
+      Ser inflexível em meus valores, seguir o que é certo, pois só assim
+      alcançarei meus objetivos. Se esforce mais que o suficiente.
+    </h1>
+  );
 }
-export default home
+
+function Texte() {
+  console.log("texte");
+}
+
+function Texte2() {
+  console.log("indeçao errada");
+}
+export default Home;

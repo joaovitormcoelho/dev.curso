@@ -1,2 +1,3 @@
 # dev.curso
-meu primeiro projedo de texte 
+
+meu primeiro projedo de texte
